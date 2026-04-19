@@ -16,7 +16,7 @@ CREATE TABLE spotify_data (
     track_duration_min FLOAT
 );
 
-LOAD DATA LOCAL INFILE '/Users/johneilish/Downloads/archive/spotify_data clean.csv'
+LOAD DATA LOCAL INFILE '/Users/pachara/Downloads/archive/spotify_data clean.csv'
 INTO TABLE spotify_data
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
