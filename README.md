@@ -1,7 +1,7 @@
 # Introduction
 This project explores top streaming 🎹 **music** and **artists** on a well-known streaming platform.
 
-Check out my SQL query here
+Check out my SQL query here [sql_query](sql_query)
 
 # Background
 As a guy who has been around music for years. I always wanted to understand how music industry works. I decided to start this project to study the most popular songs and artists.
